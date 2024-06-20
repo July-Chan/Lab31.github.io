@@ -1,0 +1,16 @@
+D:\ООП\Lab31\Lab31\bin\Debug\Lab31.exe.config
+D:\ООП\Lab31\Lab31\bin\Debug\Lab31.exe
+D:\ООП\Lab31\Lab31\bin\Debug\Lab31.pdb
+D:\ООП\Lab31\Lab31\obj\Debug\Lab31.csproj.AssemblyReference.cache
+D:\ООП\Lab31\Lab31\obj\Debug\MainWindow.g.cs
+D:\ООП\Lab31\Lab31\obj\Debug\App.g.cs
+D:\ООП\Lab31\Lab31\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ООП\Lab31\Lab31\obj\Debug\Lab31_MarkupCompile.cache
+D:\ООП\Lab31\Lab31\obj\Debug\Lab31_MarkupCompile.lref
+D:\ООП\Lab31\Lab31\obj\Debug\MainWindow.baml
+D:\ООП\Lab31\Lab31\obj\Debug\Lab31.g.resources
+D:\ООП\Lab31\Lab31\obj\Debug\Lab31.Properties.Resources.resources
+D:\ООП\Lab31\Lab31\obj\Debug\Lab31.csproj.GenerateResource.cache
+D:\ООП\Lab31\Lab31\obj\Debug\Lab31.csproj.CoreCompileInputs.cache
+D:\ООП\Lab31\Lab31\obj\Debug\Lab31.exe
+D:\ООП\Lab31\Lab31\obj\Debug\Lab31.pdb
